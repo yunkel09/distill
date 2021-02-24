@@ -1,0 +1,53 @@
+[
+  {
+    "path": "posts/2021-02-23-hola/",
+    "title": "Primer blog",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "William Chavarría",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-02-23",
+    "categories": [],
+    "contents": "\r\nAdipiscing elementum ultricies eleifend laoreet mattis aptent lacus inceptos congue suscipit? Ultricies mollis eu conubia velit tortor fringilla mi egestas vitae nibh ultricies. Aptent non felis in cursus in commodo et ornare lacus gravida et. Curabitur posuere est et placerat fermentum nostra mollis. Dictum posuere gravida.\r\nIpsum facilisis egestas purus turpis habitant primis mattis sed aliquet torquent tellus. Habitasse vehicula dui volutpat fames fames ultricies pellentesque porta. Curabitur tristique mattis mattis quam dictumst integer rhoncus. Odio at dignissim odio dictum convallis lacinia bibendum per in tincidunt!\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-02-23T21:26:09-06:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-02-23-segundo-entrada/",
+    "title": "Segunda entrada",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Juan caca",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-02-23",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-02-23T21:33:50-06:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Bienvenido a la destilería",
+    "description": "Encantado de empezar mi blog!",
+    "author": [
+      {
+        "name": "William Chavarría",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-02-23",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-02-23T21:36:31-06:00",
+    "input_file": "welcome.utf8.md"
+  }
+]

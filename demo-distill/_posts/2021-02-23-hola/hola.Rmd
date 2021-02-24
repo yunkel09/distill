@@ -1,0 +1,27 @@
+---
+title: "Primer blog"
+description: |
+  A short description of the post.
+author:
+  - name: William Chavarría
+    url: https://example.com/norajones
+date: 02-23-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+`r lorem::ipsum(paragraphs = 2)`
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
+```{r}
+create_post("Segundo entrada", author = "Juna Caca", draft = TRUE)
+```
+

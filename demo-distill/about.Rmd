@@ -1,0 +1,15 @@
+---
+title: "About this blog"
+description: |
+  Some additional details about the blog
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Dolor quis nullam auctor sed habitant ad sed sollicitudin felis eu. Lobortis pulvinar congue auctor dictum orci suscipit velit ac consequat commodo vel luctus. Sollicitudin suscipit nam a mi sociis aptent molestie ultrices! Pretium rhoncus leo nunc interdum vivamus habitant mattis sed nostra.
+
+Consectetur arcu tempus torquent massa mauris fringilla consequat nisi at? Leo commodo morbi mattis fermentum est vivamus mi class fermentum ultrices purus. Phasellus nulla sociosqu facilisis consequat pulvinar eros sem pellentesque condimentum sociosqu nisl! Dapibus cum eros netus hac viverra eu conubia maecenas justo turpis facilisis.
+
+Amet lectus sed dignissim mus vestibulum facilisis mollis lectus nisl est tristique nisi. Nascetur mollis ullamcorper viverra eros fusce volutpat litora fusce massa posuere pharetra scelerisque tincidunt accumsan rhoncus. Phasellus at turpis interdum luctus venenatis conubia ad parturient potenti. Phasellus vulputate turpis massa penatibus penatibus interdum nec!

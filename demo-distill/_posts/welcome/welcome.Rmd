@@ -1,0 +1,24 @@
+---
+title: "Bienvenido a la destilería"
+description: |
+  Encantado de empezar mi blog!
+author:
+  - name: William Chavarría 
+    url: https://example.com/norajones
+    affiliation: spartan-helmets
+    affiliation_url: https://example.com/spacelysprokets
+date: 02-23-2021
+output:
+  distill::distill_article:
+    self_contained: false
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
